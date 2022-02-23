@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+
+<text>Ver_0.0.1</text>
+
+<button type="primary" button bindtap="golist">点击投票</button>
+
+
+
+
